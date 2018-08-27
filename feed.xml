@@ -28,10 +28,10 @@
 <description>A bunch of random stories.</description>
 <itunes:summary>A bunch of random stories.</itunes:summary>
 <itunes:subtitle>A bunch of random stories.</itunes:subtitle>
-<lastBuildDate>Thu, 23 Aug 2018 14:57:00 PST</lastBuildDate>
+<lastBuildDate>Mon, 27 Aug 2018 16:09:01 PST</lastBuildDate>
 <item>
 <title>1 - The kid and the baker</title>
-<description>Our first episode!! A story a bout a kid and a baker..</description>
+<description>Our first episode!! A story a bout a kid and a baker.</description>
 <itunes:summary>Our first episode!! A story a bout a kid and a baker.</itunes:summary>
 <itunes:subtitle>Our first episode!! A story a bout a kid and a baker.</itunes:subtitle>
 <itunesu:category itunesu:code="107104" />
@@ -39,6 +39,17 @@
 <guid>https://vincens2005.github.io/alex-podcast/souceaudio/ep1.mp3</guid>
 <itunes:duration>0:19:25</itunes:duration>
 <pubDate>Thu, 23 Aug 2018 14:57:00 PST</pubDate>
+</item>
+<item>
+<title>2 - Alex and the thornbush</title>
+<description>Our Second episode! Alex meets a man with a thornbush.</description>
+<itunes:summary>Our Second episode! Alex meets a man with a thornbush.</itunes:summary>
+<itunes:subtitle>Alex meets a man with a thornbush.</itunes:subtitle>
+<itunesu:category itunesu:code="107104" />
+<enclosure url="https://vincens2005.github.io/alex-podcast/souceaudio/ep2.mp3" length="1" />
+<guid>https://vincens2005.github.io/alex-podcast/souceaudio/ep2.mp3</guid>
+<itunes:duration>0:20:07</itunes:duration>
+<pubDate>Mon, 27 Aug 2018 16:09:01 PST</pubDate>
 </item>
 </channel>
 </rss>
