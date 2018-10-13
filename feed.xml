@@ -18,7 +18,7 @@
 <itunes:category text="Fiction">
 <itunes:category text="Fiction" />
 </itunes:category>
-<itunes:keywords>alex, from, the, bottom, fun, gatorade, poerade, powerade, amrt, kid, baker, cheese, it, cereal</itunes:keywords>
+<itunes:keywords>alex, from, the, bottom, fun, gatorade, poerade, powerade, amrt, nike, adidas, kid, baker, cheese, it, cereal</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="http://www.YourSite.com/ImageSize300X300.jpg" />
 <atom:link href="https://vincens2005.github.io/alex-podcast/feed.xml" rel="self" type="application/rss+xml" />
@@ -61,6 +61,17 @@
 <guid>https://vincens2005.github.io/alex-podcast/souceaudio/ep3.mp3</guid>
 <itunes:duration>0:20:55</itunes:duration>
 <pubDate>Fri, 07 Sep 2018 18:29:01 PST</pubDate>
+</item>
+<item>
+<title>4 - More stuff happens</title>
+<description>Our Fourth episode! Lotsa stuff happens... Including... Stuff!</description>
+<itunes:summary>Lotsa stuff happens... Including... Stuff!</itunes:summary>
+<itunes:subtitle>Lotsa stuff happens... Including... Stuff!</itunes:subtitle>
+<itunesu:category itunesu:code="107104" />
+<enclosure url="https://vincens2005.github.io/alex-podcast/souceaudio/ep4.mp3" length="1" />
+<guid>https://vincens2005.github.io/alex-podcast/souceaudio/ep4.mp3</guid>
+<itunes:duration>0:26:40</itunes:duration>
+<pubDate>Fri, 12 Oct 2018 20:55:00 PST</pubDate>
 </item>
 </channel>
 </rss>
